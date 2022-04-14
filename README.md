@@ -21,3 +21,4 @@ Here are a few things I've picked up along my learning journey:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariyzx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![snake gif](https://github.com/mariyzx/mariyzx/blob/output/github-contribution-grid-snake.gif)
