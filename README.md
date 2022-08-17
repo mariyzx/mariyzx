@@ -2,8 +2,7 @@
 
 I am passionate about technologies and love to learn new things.
 - 20y/o, Rio de Janeiro - Brasil. 
-- 😄 Pronouns: she/her/ela/dela.
-- 🌱 I’m currently learning web development at [Trybe](https://betrybe.com)!
+- I’m currently learning web development at [Trybe](https://betrybe.com)!
 - Portfolio: https://abre.ai/eSE1
 
 ## ⚡ Tech Stack
