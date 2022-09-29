@@ -1,9 +1,11 @@
 <h1 align="center"> Hi, I am Mariana Werneck 👨‍💻 </h1>
 
 <div align="center">
+☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🎮 𝗚𝗮𝗺𝗶𝗻𝗴 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 🎶 𝗠𝘂𝘀𝗶𝗰 𝗹𝗼𝘃𝗲𝗿
+
  <h3>I am passionate about technologies and love to learn new things.</h3>
  <p>  20y/o, Rio de Janeiro - Brasil. </p>
- <p>I’m currently learning web development at <a href="https://betrybe.com">Trybe!</a></p>
+ <p>I’m a front-end dev currently learning back-end at <a href="https://betrybe.com">Trybe!</a></p>
  <h3><a href="https://abre.ai/eSE1">Portfolio</a></h3>
 </div>
 
@@ -30,13 +32,20 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariyzx&layout=compact&langs_count=7&theme=dracula"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariyzx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinhomariana8/)
-[![LinkedIn](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariyzx)
+ 
+<div align="center">
+<h2>📫 How to reach me</h2>
+<a href="https://www.linkedin.com/in/marinhomariana8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://t.me/mariyzx">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
  
  or give some ♥ on [mail](mailto:marinhomariana8@gmail.com) .
-  
-  
-## 🐍 Snake eating my contribution graph 
-![snake gif](https://github.com/mariyzx/mariyzx/blob/output/github-contribution-grid-snake.gif)
+</div>
+
+<div align="center">
+<h2>🐍 Snake eating my contribution graph </h2>
+<img src="https://github.com/mariyzx/mariyzx/blob/output/github-contribution-grid-snake.gif">
+</div>
