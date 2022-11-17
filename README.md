@@ -4,8 +4,8 @@
 ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🎮 𝗚𝗮𝗺𝗶𝗻𝗴 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 🎶 𝗠𝘂𝘀𝗶𝗰 𝗹𝗼𝘃𝗲𝗿
 
  <h3>I am passionate about technologies and love to learn new things.</h3>
- <p>  21y/o, Rio de Janeiro - Brasil. </p>
- <p>I’m a front-end dev currently learning back-end at <a href="https://betrybe.com">Trybe!</a></p>
+ <h3>  21y/o, Rio de Janeiro - Brasil. </h3>
+ <h3>I’m a front-end dev currently learning back-end at <a href="https://betrybe.com">Trybe!</a></h3>
  <h3><a href="https://abre.ai/eSE1">Portfolio</a></h3>
 </div>
 
