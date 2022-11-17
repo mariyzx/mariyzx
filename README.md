@@ -9,6 +9,9 @@
  <h3><a href="https://abre.ai/eSE1">Portfolio</a></h3>
 </div>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <h1 align="center">⚡ Tech Stack</h1>
 
