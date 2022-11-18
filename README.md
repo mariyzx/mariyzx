@@ -54,7 +54,14 @@
 This Week I Spent My Time On
    
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+
+```text
+TypeScript   9 mins          █████████████████░░░░░░░░   68.26 %
+JSON         3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Git Config   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+```
+
+<!--END_SECTION:waka-->
 </div>
 
  
