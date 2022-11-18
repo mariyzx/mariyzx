@@ -87,6 +87,7 @@ Git Config   0 secs          █▓░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-<h2>🐍 Snake eating my contribution graph </h2>
-<img src="https://github.com/mariyzx/mariyzx/blob/output/github-contribution-grid-snake.gif">
+
+ ![Snake animation](https://github.com/mariyzx/mariyzx/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
