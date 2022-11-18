@@ -65,3 +65,4 @@ jobs:
           plugin_music_time_range: long
           plugin_music_top_type: artists
           plugin_music_user: yaybro
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
