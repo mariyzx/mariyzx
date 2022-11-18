@@ -44,7 +44,14 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariyzx&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
    
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+
+```text
+TypeScript   9 mins          █████████████████░░░░░░░░   68.26 %
+JSON         3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Git Config   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+```
+
+<!--END_SECTION:waka-->
 </div>
 
  
