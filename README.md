@@ -6,12 +6,8 @@
  <h3>I am passionate about technologies and love to learn new things.</h3>
  <h3>  21y/o, Rio de Janeiro - Brasil. </h3>
  <h3>I’m a front-end dev currently learning back-end at <a href="https://betrybe.com">Trybe!</a></h3>
- <h3><a href="https://abre.ai/eSE1">Portfolio</a></h3>
+ <h3><a href="https://mariyzx-portfolio.vercel.app/" _target="blank">Portfolio</a></h3>
 </div>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 <h1 align="center">⚡ Tech Stack</h1>
 
