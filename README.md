@@ -56,13 +56,9 @@ This Week I Spent My Time On
  <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 18 November 2022
-
-Total Time: 14 mins
-
-TypeScript   9 mins          >>>>>>>>>>>>>>>>>--------   68.26 %
-JSON         3 mins          >>>>>>-------------------   25.33 %
-Git Config   0 secs          >>-----------------------   06.41 %
+TypeScript                   █████████████████░░░░░░░░   68.26 %
+JSON                         ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Git Config                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
