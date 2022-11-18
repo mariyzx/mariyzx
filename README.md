@@ -7,11 +7,18 @@
      <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
  </div>
  <div>
-  <b>Available for hire!</b><br>
-  ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🎮 𝗚𝗮𝗺𝗶𝗻𝗴 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 🎶 𝗠𝘂𝘀𝗶𝗰 𝗹𝗼𝘃𝗲𝗿
+  <b>Available for hire!</b>
+  <br>
   
-  🔭  I am passionate about technologies and love to learn new things.<br>
-  😄  21y/o, Rio de Janeiro - Brasil.<br>
+  ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🎮 𝗚𝗮𝗺𝗶𝗻𝗴 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 🎶 𝗠𝘂𝘀𝗶𝗰 𝗹𝗼𝘃𝗲𝗿
+  <br>
+  
+  🔭  I am passionate about technologies and love to learn new things.
+  <br>
+  
+  😄  21y/o, Rio de Janeiro - Brasil.
+  <br>
+  
   🌱  I’m a front-end dev currently learning back-end at <a href="https://betrybe.com">Trybe!</a>
   <br>
  </div>
