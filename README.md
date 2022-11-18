@@ -3,26 +3,21 @@
 </p>
 
 <div align="center">
-   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+ <div>
+     <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+ </div>
  <div>
   <b>Available for hire!</b><br>
- <br>
- ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🎮 𝗚𝗮𝗺𝗶𝗻𝗴 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 🎶 𝗠𝘂𝘀𝗶𝗰 𝗹𝗼𝘃𝗲𝗿 <br>
- <br>
- 🔭  I am passionate about technologies and love to learn new things. <br>
- <br>
- 😄  21y/o, Rio de Janeiro - Brasil.  <br>
- <br>
- 🌱  I’m a front-end dev currently learning back-end at <a href="https://betrybe.com">Trybe!</a>
+  ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🎮 𝗚𝗮𝗺𝗶𝗻𝗴 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 | 🎶 𝗠𝘂𝘀𝗶𝗰 𝗹𝗼𝘃𝗲𝗿
+  
+  🔭  I am passionate about technologies and love to learn new things.<br>
+  😄  21y/o, Rio de Janeiro - Brasil.<br>
+  🌱  I’m a front-end dev currently learning back-end at <a href="https://betrybe.com">Trybe!</a>
   <br>
-     
- <br>
-
- <h3><a href="https://mariyzx-portfolio.vercel.app/">Portfolio</a></h3>
-
- <div>
-
+ </div>
 </div>
+
+<h3 align="center">Checkout my <a href="https://mariyzx-portfolio.vercel.app/">Portfolio</a>!</h3>
 
 <h2 align="center">⚡ Tech Stack</h2>
 
