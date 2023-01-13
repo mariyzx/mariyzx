@@ -56,8 +56,9 @@ This Week I Spent My Time On
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 48 mins   █████████████████████▓░░░   86.28 %
-Other        36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+JavaScript   7 hrs 48 mins   ███████████████████▒░░░░░   76.73 %
+TypeScript   1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+Other        36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
