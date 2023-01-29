@@ -57,11 +57,11 @@ This Week I Spent My Time On
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   18 hrs 25 mins  █████████████████████░░░░   83.75 %
-JSON         2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Bash         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-TypeScript   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+JavaScript   21 hrs 27 mins  █████████████████████▒░░░   85.97 %
+JSON         1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Bash         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TypeScript   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
