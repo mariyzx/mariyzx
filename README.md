@@ -19,7 +19,7 @@
   😄  21y/o, Rio de Janeiro - Brasil.
   <br>
   
-  🌱  I’m a front-end dev currently learning back-end at <a href="https://betrybe.com">Trybe!</a>
+  🌱  I’m a full-stack dev currently learning computer science at <a href="https://betrybe.com">Trybe!</a>
   <br>
  </div>
 </div>
