@@ -56,7 +56,7 @@
 ### :headphones: Ouvindo no Spotify
 [![Spotify](https://novatorem-orpin-eight.vercel.app/api/spotify)](https://open.spotify.com/user/yaybro)
 
-### Como passei o tempo nessa semana
+### 🖥 Como passei o tempo nessa semana
    
  <!--START_SECTION:waka-->
 
