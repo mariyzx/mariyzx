@@ -20,8 +20,8 @@
  <img align="left" alt="Mariana Werneck | Telegram" src="https://img.icons8.com/color/512/telegram-app.png" width="25px">
 </a>
 
-<div  align="center">
-    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<div align="center">
+    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="190" height="auto" />
 </div>
 
 <sub>ㅤ</sub>
