@@ -30,7 +30,8 @@
 
  - 🔭  Sou apaixonada por tecnologia e amo aprender coisas novas.
  - 😄  21 anos, Rio de Janeiro - Brasil.
- - 🌱  Sou uma dev web full-stack e atualmente estou aprendendo Ciência da Computação na <a href="https://betrybe.com">Trybe!</a>
+ - 📚  Cursando Bacharel em Matemática Aplicada e Computacional na UFRRJ.
+ - 🌱  Sou uma dev web full-stack formada na <a href="https://betrybe.com">Trybe!</a>
 
 ### 🛠 Linguagens e Ferramentas
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
