@@ -62,7 +62,7 @@
    
  <!--START_SECTION:waka-->
 
-```text
+```txt
 C++          3 hrs 47 mins   █████████████▓░░░░░░░░░░░   54.62 %
 JavaScript   2 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.27 %
 Markdown     37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
