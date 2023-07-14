@@ -63,8 +63,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-C++    58 mins         █████████████████████████   99.90 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
