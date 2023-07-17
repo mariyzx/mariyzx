@@ -8,7 +8,7 @@
   <img align="left" alt="Mariana Werneck | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marinhomariana8/">
-  <img align="left" alt="Mariana Werneck | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mariana Werneck | LinkedIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />
 </a>
 <a href="https://www.instagram.com/slyhogx">
   <img align="left" alt="Mariana Werneck | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
