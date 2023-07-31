@@ -63,9 +63,8 @@
  <!--START_SECTION:waka-->
 
 ```txt
-C++              2 hrs 36 mins   █████████████████░░░░░░░░   67.39 %
-Java             1 hr 12 mins    ███████▓░░░░░░░░░░░░░░░░░   31.27 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Java             1 hr 12 mins    ████████████████████████░   95.88 %
+GitIgnore file   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
