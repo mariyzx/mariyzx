@@ -29,7 +29,7 @@
 ### ☕️ Amante de café | 🎮 Entusiasta de jogos | 🎶 Amante de música
 
  - 🔭  Sou apaixonada por tecnologia e amo aprender coisas novas.
- - 😄  21 anos, Rio de Janeiro - Brasil.
+ - 😄  22 anos, Rio de Janeiro - Brasil.
  - 📚  Cursando Bacharel em Matemática Aplicada e Computacional na UFRRJ.
  - 🌱  Sou uma dev web full-stack formada na <a href="https://betrybe.com">Trybe!</a>
  - 🚀  Atualmente estou aprendendo Java e C++!
