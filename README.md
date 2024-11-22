@@ -31,7 +31,6 @@
  - 🔭  Sou apaixonada por tecnologia e amo aprender coisas novas.
  - 😄  23 anos, Rio de Janeiro - Brasil.
  - 📚  Cursando Bacharel em Matemática Aplicada e Computacional na UFRRJ.
- - 🌱  Sou uma dev formada pela <a href="https://betrybe.com">Trybe!</a>
  - 🚀  Atualmente sou uma dev full-stack na <a href="https://insidethebox.com.br/">Inside the Box</a>
 
 ### 🛠 Linguagens e Ferramentas
