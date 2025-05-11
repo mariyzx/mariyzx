@@ -8,7 +8,7 @@
   <img align="left" alt="Mariana Werneck | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marinhomariana8/">
-  <img align="left" alt="Mariana Werneck | LinkedIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />
+  <img align="left" alt="Mariana Werneck | LinkedIN" width="25px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
 </a>
 
 <div align="center">
@@ -25,8 +25,8 @@
  - 🚀  Atualmente sou uma dev full-stack na <a href="https://insidethebox.com.br/">Inside the Box</a>
 
 ### 🛠 Linguagens e Ferramentas
- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+ <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+ <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
  <img align="left" alt="Github" width="26px" src="https://img.icons8.com/color/256/github.png">
