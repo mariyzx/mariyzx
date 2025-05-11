@@ -10,15 +10,6 @@
 <a href="https://www.linkedin.com/in/marinhomariana8/">
   <img align="left" alt="Mariana Werneck | LinkedIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />
 </a>
-<a href="https://www.instagram.com/slyhogx">
-  <img align="left" alt="Mariana Werneck | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
-</a>
-<a href="https://open.spotify.com/user/yaybro">
-  <img align="left" alt="Mariana Werneck | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1920px-Spotify_logo_without_text.svg.png" />
-</a>
-<a href="https://t.me/mariyzx">
- <img align="left" alt="Mariana Werneck | Telegram" src="https://img.icons8.com/color/512/telegram-app.png" width="25px">
-</a>
 
 <div align="center">
     <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="190" height="auto" />
