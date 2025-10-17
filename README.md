@@ -1,9 +1,8 @@
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=BF2CF7&center=true&vCenter=true&width=435&height=47&lines=%3CMariana+Werneck+%2F%3E" alt="Typing SVG" /></a>
-</p>
 
 
-### Olá, sou Mariana Werneck <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+
+
+### I'm Mariana, a Full-stack Software Engineer from Rio/Brazil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 <a href="mailto:marinhomariana8@gmail.com">
   <img align="left" alt="Mariana Werneck | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
@@ -12,43 +11,36 @@
 </a>
 
 <div align="center">
-    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="190" height="auto" />
 </div>
 
 <sub>ㅤ</sub>
 
-### ☕️ Amante de café | 🎮 Entusiasta de jogos | 🎶 Amante de música
+###  Frameworks, Libraries & Tools
 
- - 🔭  Sou apaixonada por tecnologia e amo aprender coisas novas.
- - 😄  23 anos, Rio de Janeiro - Brasil.
- - 📚  Cursando Bacharel em Matemática Aplicada e Computacional na UFRRJ.
- - 🚀  Atualmente sou uma dev full-stack na <a href="https://insidethebox.com.br/">Inside the Box</a>
+### Languages
 
-### 🛠 Linguagens e Ferramentas
- <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
- <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
- <img align="left" alt="Github" width="26px" src="https://img.icons8.com/color/256/github.png">
- <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/256/react-native.png">
- <img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/1x/redux.png">
- <img align="left" alt="Styled Components" width="26px" src="https://img.icons8.com/color/256/styled-components.png">
- <img align="left" alt="Jest" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png">
- <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/256/bootstrap.png">
- <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/256/typescript.png">
- <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/256/docker.png">
- <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/256/mysql-logo.png">
- <img align="left" alt="Ubuntu" width="26px" src="https://img.icons8.com/color/256/ubuntu.png" />
- <img align="left" alt="MongDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
 
-<sub></sub>
-<br>
+### Frameworks, Libraries & Tools
 
-### :headphones: Ouvindo no Spotify
+![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FF0901?style=flat-square&logo=typeorm&logoColor=white) ![Express.js](https://img.shields.io/badge/ExpressJS-%23007ACC.svg?style=flat-square&logo=espressjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-%23007ACC.svg?style=flat-square&logo=prisma&logoColor=white) 
+### Front-End
+
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white) 
+
+### Databases
+
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
+
+### Cloud services and Hosting
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+
+### :headphones: Currently listening
 [![Spotify](https://novatorem-orpin-eight.vercel.app/api/spotify)](https://open.spotify.com/user/yaybro)
 
-### 🖥 Como passei o tempo nessa semana
+### 🖥 Currently working with 
    
  <!--START_SECTION:waka-->
 
