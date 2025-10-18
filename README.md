@@ -54,9 +54,3 @@ JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-<div align="center">
-
- ![Snake animation](https://github.com/mariyzx/mariyzx/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
