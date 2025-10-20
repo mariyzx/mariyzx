@@ -2,7 +2,7 @@
 
 
 
-### I'm Mariana, a Full-stack Software Engineer from Rio/Brazil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+### I'm Mariana, a Full-stack Software Developer from Rio/Brazil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 <a href="mailto:marinhomariana8@gmail.com">
   <img align="left" alt="Mariana Werneck | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
@@ -15,7 +15,7 @@
 
 <sub>ㅤ</sub>
 
-###  Frameworks, Libraries & Tools
+## 💻 Stuff I enjoy working with
 
 ### Languages
 
