@@ -45,11 +45,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      7 hrs 41 mins         ██████████████████████▒░░   89.55 %
-SQL             36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Markdown        12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Prisma          5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Jest Snapshot   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
