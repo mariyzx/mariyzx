@@ -35,18 +35,3 @@
 ### Cloud services and Hosting
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-
-
-### :headphones: Currently listening
-[![Spotify](https://novatorem-orpin-eight.vercel.app/api/spotify)](https://open.spotify.com/user/yaybro)
-
-### 🖥 Currently working with 
-   
- <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
